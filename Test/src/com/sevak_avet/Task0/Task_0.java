@@ -9,5 +9,6 @@ public class Task_0 {
         }
 
         a.printTree(false);
+        // finish
     }
 }
